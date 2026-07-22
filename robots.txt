@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ke2qhz.keitaro-tech-rtb.online/sitemap.xml
